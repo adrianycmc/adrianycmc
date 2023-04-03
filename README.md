@@ -16,7 +16,7 @@ Migrando para a área de tecnologia. 👩‍💻
 <div>
 <a href="https://github.com/adrianycmc">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianycmc&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianycmc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianycorrea/)
