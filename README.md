@@ -4,8 +4,12 @@
 ## Oi! Eu sou a Adriany 🖐️
 <br>
 <p align="left"> 
-  Desenvolvedora em desenvolvimento. Sou estudante de Sistemas de Informação e estou em transição de carreira.
+  👩‍💻 Desenvolvedora em desenvolvimento!
+  <br>
+  🎓 Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e em transição de carreira.
+
 </p>
+
 <br>
 
 <p align="left">
@@ -32,10 +36,9 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 
+</p>
 
 #
-
-
 
 <p align="left">
   Caso queira entrar em contato comigo: ⤵️
@@ -45,4 +48,5 @@
 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianycorrea/)
+</p>
 
