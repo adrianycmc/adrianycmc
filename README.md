@@ -6,7 +6,7 @@
 <p align="left"> 
   👩‍💻 Desenvolvedora em desenvolvimento!
   <br>
-  🎓 Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e estagiária de desenvolvimento full-stack. 
+  🎓 Sou uma estudante de Sistemas de Informação, apaixonada por tecnologia e estagiária em desenvolvimento full-stack. 
 
 </p>
 
